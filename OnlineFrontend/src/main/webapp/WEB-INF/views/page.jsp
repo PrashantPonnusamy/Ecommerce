@@ -29,7 +29,7 @@
     <link href="${css}/bootstrap.min.css" rel="stylesheet">
     
     
-    <!-- Bootstrap cy CSS -->
+    <!-- Bootstrap yeti CSS -->
   <link href="${css}/bootstrap-yeti-theme.css" rel="stylesheet">
   
   
